@@ -1,1 +1,1 @@
-# projeto1-eletrodig
+# 1° Projeto da Disciplina de Eletrônica Digital
